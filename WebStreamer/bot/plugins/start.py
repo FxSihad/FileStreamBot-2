@@ -12,7 +12,7 @@ db = Database(Var.DATABASE_URL, Var.SESSION_NAME)
 START_TEXT = """
 <i>👋 Hᴇʏ,</i>{}\n
 <i>I'ᴍ Tᴇʟᴇɢʀᴀᴍ Fɪʟᴇs Sᴛʀᴇᴀᴍɪɴɢ Bᴏᴛ ᴀs ᴡᴇʟʟ Dɪʀᴇᴄᴛ Lɪɴᴋs Gᴇɴᴇʀᴀᴛᴇ</i>\n
-<i>Want to use Stable Bot</i> <b>: <a href='http://t.me/DirectLinkGeneratorBeta_Bot'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>
+<i>Want to use Stable Bot</i> <b>: <a href='http://t.me/DeekshithSH_Bot'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>
 <i>Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</i>\n"""
 
 HELP_TEXT = """
